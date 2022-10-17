@@ -1,4 +1,3 @@
-hello git hot-fix
 hello git
 hello git
 hello git
@@ -14,4 +13,4 @@ hello git
 hello git
 hello git
 hello git
-hello windows
+hello git
